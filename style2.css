@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: rgb(8, 6, 7);
+    text-shadow: 2px 2px 5px rgb(237, 122, 237);
+}
+
+img{
+    width: 50%;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgb(34, 34, 34);
+    text-align: center;
+}
+
+.centro{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-family: cursive;
+}
+
+body{
+    background-color: rgb(219, 219, 219);
+}
+
+ul{
+   padding-left: 700px;
+}
+
+p{
+    font-size: 17px;
+   
+    
+}
+
+.ny{
+    text-align: center;
+}
